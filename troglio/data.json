@@ -1,1 +1,1 @@
-{"pages":[],"config":{"title":"My cool website","labels":[]}}
+{"pages":[{"permalink":"/{{title}}","layout":"default","body":"Hello ! This is my first post with Troglio :)","date":null,"attachments":[],"cover":false,"labels":[],"members":[],"archived":false,"published":true,"position":0,"kind":"single","type":"page","title":"My first post","template":"single","component":"src/components/all.js","slug":"my-first-post","mm":null,"yyyy":null,"dd":null,"cardname":"My first post","list":"posts","path":"/my-first-post","data":[]}],"config":{"title":"My cool website","labels":[]}}
